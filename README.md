@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabbellini
 - 👀 I’m interested in fullstack projects focused in VueJS and Golang
-- 🌱 I’m currently learning about web security
+- 🌱 I’m currently learning about golang
 - 💞️ I’m looking to collaborate on web projects in general
 - 📫 How to reach me https://www.linkedin.com/in/gabriel-bellini/
 
